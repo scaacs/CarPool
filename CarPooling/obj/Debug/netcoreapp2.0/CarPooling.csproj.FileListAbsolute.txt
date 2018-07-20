@@ -1,0 +1,11 @@
+c:\users\administrator\source\repos\CarPooling\CarPooling\bin\Debug\netcoreapp2.0\CarPooling.deps.json
+c:\users\administrator\source\repos\CarPooling\CarPooling\bin\Debug\netcoreapp2.0\CarPooling.runtimeconfig.json
+c:\users\administrator\source\repos\CarPooling\CarPooling\bin\Debug\netcoreapp2.0\CarPooling.runtimeconfig.dev.json
+c:\users\administrator\source\repos\CarPooling\CarPooling\bin\Debug\netcoreapp2.0\CarPooling.dll
+c:\users\administrator\source\repos\CarPooling\CarPooling\obj\Debug\netcoreapp2.0\CarPooling.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\CarPooling\CarPooling\obj\Debug\netcoreapp2.0\CarPooling.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\CarPooling\CarPooling\obj\Debug\netcoreapp2.0\CarPooling.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\CarPooling\CarPooling\obj\Debug\netcoreapp2.0\CarPooling.AssemblyInfo.cs
+c:\users\administrator\source\repos\CarPooling\CarPooling\bin\Debug\netcoreapp2.0\CarPooling.pdb
+c:\users\administrator\source\repos\CarPooling\CarPooling\obj\Debug\netcoreapp2.0\CarPooling.dll
+c:\users\administrator\source\repos\CarPooling\CarPooling\obj\Debug\netcoreapp2.0\CarPooling.pdb
